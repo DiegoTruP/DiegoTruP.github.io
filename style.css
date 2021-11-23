@@ -148,6 +148,7 @@
     margin-top: 25px;
     margin-left: auto;
     margin-right: auto;
+    margin-bottom: auto;
     height: 300px;
   }
 
@@ -155,6 +156,7 @@
     margin-top: 25px;
     margin-left: auto;
     margin-right: auto;
+    margin-bottom: auto;
     height: 300px;
   }
   
@@ -565,14 +567,14 @@
     margin-top: 25px;
     margin-left: auto;
     margin-right: auto;
-    height: 300px;
+    max-height: 350px;
   }
 
   div.tarjeta-experiencia2{
     margin-top: 25px;
     margin-left: auto;
     margin-right: auto;
-    height: 300px;
+    max-height: 350px;
   }
   
   div.contenedor-tarjetas {
