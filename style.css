@@ -339,13 +339,13 @@
   div.tarjeta-experiencia1{
     margin-right: 40px;
     margin-left: auto;
-    height: 300px;
+    max-height: 350px;
   }
 
   div.tarjeta-experiencia2{
     margin-left: 40px;
     margin-right: auto;
-    height: 300px;
+    max-height: 350px;
   }
   
   div.tarjeta-experiencia{
